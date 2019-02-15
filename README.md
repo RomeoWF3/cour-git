@@ -20,7 +20,7 @@ On ajoute du code HTML
 
 ## Nouveau titre
 
-un petit bout de code `<p>lorem</p>`
+un petit bout de crotte `<p>lorem</p>`
 
 ### Une liste HTML
 
